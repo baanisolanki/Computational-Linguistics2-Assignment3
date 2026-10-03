@@ -1,0 +1,1 @@
+the data folder contains the neg and pos folders which contain negative and positive reviews in txt files. review_data.README conatins the informatio on how the data was collected and classified.
