@@ -1,0 +1,607 @@
+
+==================================================
+---  :)  Naive Bayes (Config 1)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+- burnt money is the perfect festival film . 
+it will show once or twice , and then no one , thankfully , will ever have to hear from it again . 
+this film from the seattle international film festival 2001's emerging masters series is easily one of the year's worst . 
+billed as a gay `bonnie and clyde' , this gritty film from director marcelo pi ? eyro has its only highlight in a well-designed title sequence . 
+two gay lovers get involved in a bank robbery that makes a gang leader , whose plan the...
+
+- i have never seen a man so in love with himself than george lucas . 
+with the overt success of the three original star wars films , lucas has become , not necessarily a filmmaker , but the head cheeze at a huge toy company , with the phantom menace the new product on the shelve . 
+only this toy was made for $115 million , but every kid wants it , and , like all other expensive toys , falls apart within an hour after playing with it . 
+the product in question , star wars episode 1 : the phantom m...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
+
+==================================================
+---  :)  Logistic Regression (Config 1)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+-  " some houses are born bad , " goes the haunting's tag line , to which i must add , " some movies , too . " 
+nothing short of hiring a new cast , a more literate screenwriter , and a new director could have saved this tragically misguided adaptation of jackson's meritorious novel . 
+the haunting is late entry summer dreck too slick to be creepy , and its seemingly endless stream of digital trickery and spooky ooky sound effects don't frighten so much as numb the audience into submission-the fil...
+
+- the happy bastard's quick movie review 
+the concept of enjoying a stupid comedy is best realized as keeping it stupid , really . 
+shift gears even once and the audience can be thrown miserably out of control . 
+sadly , that is the case with kingpin , a film directed by the farrelly brothers , the duo that brought us there's something about mary and dumb and dumber . 
+since the duo directed and didn't write the script , i can assume that's part of the problem . 
+the story seems good enough : a pr...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- notice : this is a review and analysis of exotica . 
+the first part of this piece is the review , the second part contains some analysis of the movie which might be construed as spoilers . 
+if you have not seen the movie and after reading the first part you intend to do so , then save the second part for the discussion afterwards . 
+starring : bruce greenwood , mia kirshner , elias kosteas , don mckellar , arsinee khanijian , sarah polley director : atom egoyan screenplay : atom egoyan 
+exotica ...
+
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+
+==================================================
+---  :)  Naive Bayes (Config 2)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+- burnt money is the perfect festival film . 
+it will show once or twice , and then no one , thankfully , will ever have to hear from it again . 
+this film from the seattle international film festival 2001's emerging masters series is easily one of the year's worst . 
+billed as a gay `bonnie and clyde' , this gritty film from director marcelo pi ? eyro has its only highlight in a well-designed title sequence . 
+two gay lovers get involved in a bank robbery that makes a gang leader , whose plan the...
+
+- i have never seen a man so in love with himself than george lucas . 
+with the overt success of the three original star wars films , lucas has become , not necessarily a filmmaker , but the head cheeze at a huge toy company , with the phantom menace the new product on the shelve . 
+only this toy was made for $115 million , but every kid wants it , and , like all other expensive toys , falls apart within an hour after playing with it . 
+the product in question , star wars episode 1 : the phantom m...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
+
+==================================================
+---  :)  Logistic Regression (Config 2)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+-  " some houses are born bad , " goes the haunting's tag line , to which i must add , " some movies , too . " 
+nothing short of hiring a new cast , a more literate screenwriter , and a new director could have saved this tragically misguided adaptation of jackson's meritorious novel . 
+the haunting is late entry summer dreck too slick to be creepy , and its seemingly endless stream of digital trickery and spooky ooky sound effects don't frighten so much as numb the audience into submission-the fil...
+
+- the happy bastard's quick movie review 
+the concept of enjoying a stupid comedy is best realized as keeping it stupid , really . 
+shift gears even once and the audience can be thrown miserably out of control . 
+sadly , that is the case with kingpin , a film directed by the farrelly brothers , the duo that brought us there's something about mary and dumb and dumber . 
+since the duo directed and didn't write the script , i can assume that's part of the problem . 
+the story seems good enough : a pr...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- cinematically speaking , gordon parks' original 1971 _shaft_ is not a great film . 
+a bit slow at times and more than a little rough around the edges as it builds to its climactic explosion of violent action , this spirited but formulaic yarn that initially brought ernest tidyman's " black private dick that's a sex machine to all the chicks " to the big screen hardly qualifies as groundbreaking filmmaking . 
+yet nearly 30 years after its original release--and long after the genre it spawned , " ...
+
+- notice : this is a review and analysis of exotica . 
+the first part of this piece is the review , the second part contains some analysis of the movie which might be construed as spoilers . 
+if you have not seen the movie and after reading the first part you intend to do so , then save the second part for the discussion afterwards . 
+starring : bruce greenwood , mia kirshner , elias kosteas , don mckellar , arsinee khanijian , sarah polley director : atom egoyan screenplay : atom egoyan 
+exotica ...
+
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+
+==================================================
+---  :)  Naive Bayes (Config 3)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- here's a rarity : a children's film that attempts to tackle a weighty subject , is there a god ? 
+done well , it could have been a gem among the wasteland of modern children's cinema . 
+unfortunately , it isn't . 
+with jumbled messages , and an unclear audience , wide awake was better left asleep . 
+fifth grader joshua beal ( joseph cross ) is in the middle of a moral crisis . 
+his beloved grandfather ( robert loggia ) has died , and joshua has begun a quest . 
+he wants to find god , to discover...
+
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+- i have never been so confused after watching a movie . 
+ " meet joe black " is probably one of the most visually satisfying films of this year , with a cinematography , music and cast that will dazzle most of us . 
+at the same time it is probably the most boring and ridiculous experience hat you will have this season . 
+at first you marvel at the elegant direction , graceful cinematography and sensual musical score . 
+then you'll wait for something to happen for half an hour , but when you final...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
+
+==================================================
+---  :)  Logistic Regression (Config 3)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+-  " marie couldn't talk , " paulie , the parrot star of his own movie , tells us about the daughter in his original family . 
+ " dad couldn't listen . 
+and mom couldn't cope , so they got rid of me . " 
+paulie , the autobiography of a talking , not merely a mimicking , parrot , has jay mohr in the lead role of the bird - the voice , not the body - and as the minor character of benny , a small-time crook who uses paulie to pull off small scams like stealing twenties from atms . 
+as the parrot , mo...
+
+- there is a scene early in jakob the liar that hints at how much better it could have been . 
+the scene is set in a jewish ghetto in poland circa 1944 , where a one-time cafe proprietor named jakob heym is walking resolutely through the streets , fists stuffed into coat pockets . 
+to one side of him , residents scavenge for food in the street ; to the other side , german troops beat a group of jews . 
+jakob , however , never stops moving . 
+it's an efficient , effective set-up for the character ,...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
+
+==================================================
+---  :)  Naive Bayes (Config 4)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+- burnt money is the perfect festival film . 
+it will show once or twice , and then no one , thankfully , will ever have to hear from it again . 
+this film from the seattle international film festival 2001's emerging masters series is easily one of the year's worst . 
+billed as a gay `bonnie and clyde' , this gritty film from director marcelo pi ? eyro has its only highlight in a well-designed title sequence . 
+two gay lovers get involved in a bank robbery that makes a gang leader , whose plan the...
+
+- i have never seen a man so in love with himself than george lucas . 
+with the overt success of the three original star wars films , lucas has become , not necessarily a filmmaker , but the head cheeze at a huge toy company , with the phantom menace the new product on the shelve . 
+only this toy was made for $115 million , but every kid wants it , and , like all other expensive toys , falls apart within an hour after playing with it . 
+the product in question , star wars episode 1 : the phantom m...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
+
+==================================================
+---  :)  Logistic Regression (Config 4)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+- the happy bastard's quick movie review 
+the concept of enjoying a stupid comedy is best realized as keeping it stupid , really . 
+shift gears even once and the audience can be thrown miserably out of control . 
+sadly , that is the case with kingpin , a film directed by the farrelly brothers , the duo that brought us there's something about mary and dumb and dumber . 
+since the duo directed and didn't write the script , i can assume that's part of the problem . 
+the story seems good enough : a pr...
+
+- michael crichton has had a long career of writing novels , many of which are science fiction . 
+the most profitable film adaptation of any novel was an adaptation of a michael crichton science fiction novel . 
+so in the logic of the film industry a good way to make a profitable film would be to make a big-budget adaptation of another crichton science fiction novel . 
+congo failed , and i am afraid that sphere is probably not going to fare a whole lot better . 
+it a little better than just okay n...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
+
+==================================================
+---  :)  Naive Bayes (Config 5)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- here's a rarity : a children's film that attempts to tackle a weighty subject , is there a god ? 
+done well , it could have been a gem among the wasteland of modern children's cinema . 
+unfortunately , it isn't . 
+with jumbled messages , and an unclear audience , wide awake was better left asleep . 
+fifth grader joshua beal ( joseph cross ) is in the middle of a moral crisis . 
+his beloved grandfather ( robert loggia ) has died , and joshua has begun a quest . 
+he wants to find god , to discover...
+
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+- i have never been so confused after watching a movie . 
+ " meet joe black " is probably one of the most visually satisfying films of this year , with a cinematography , music and cast that will dazzle most of us . 
+at the same time it is probably the most boring and ridiculous experience hat you will have this season . 
+at first you marvel at the elegant direction , graceful cinematography and sensual musical score . 
+then you'll wait for something to happen for half an hour , but when you final...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
+- so many students strive to get into schools such as harvard of princeton , but they just don't get the good grades . 
+so many students would do anything to reach their goal of getting into this schools . 
+legend has it that if your roommate commits suicide , the remaining roommates will get an automatic 4 . 0 . 
+chris ( michael vartan ) and tim ( matthew lillard ) are two guys who really want the 4 . 0 to get into harvard . 
+how far will they go to get their 4 . 0 ? 
+chris and tim are also roomm...
+
+
+==================================================
+---  :)  Logistic Regression (Config 5)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+-  " marie couldn't talk , " paulie , the parrot star of his own movie , tells us about the daughter in his original family . 
+ " dad couldn't listen . 
+and mom couldn't cope , so they got rid of me . " 
+paulie , the autobiography of a talking , not merely a mimicking , parrot , has jay mohr in the lead role of the bird - the voice , not the body - and as the minor character of benny , a small-time crook who uses paulie to pull off small scams like stealing twenties from atms . 
+as the parrot , mo...
+
+- there is a scene early in jakob the liar that hints at how much better it could have been . 
+the scene is set in a jewish ghetto in poland circa 1944 , where a one-time cafe proprietor named jakob heym is walking resolutely through the streets , fists stuffed into coat pockets . 
+to one side of him , residents scavenge for food in the street ; to the other side , german troops beat a group of jews . 
+jakob , however , never stops moving . 
+it's an efficient , effective set-up for the character ,...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
+
+==================================================
+---  :)  Naive Bayes (Config 6)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+- burnt money is the perfect festival film . 
+it will show once or twice , and then no one , thankfully , will ever have to hear from it again . 
+this film from the seattle international film festival 2001's emerging masters series is easily one of the year's worst . 
+billed as a gay `bonnie and clyde' , this gritty film from director marcelo pi ? eyro has its only highlight in a well-designed title sequence . 
+two gay lovers get involved in a bank robbery that makes a gang leader , whose plan the...
+
+- i have never been so confused after watching a movie . 
+ " meet joe black " is probably one of the most visually satisfying films of this year , with a cinematography , music and cast that will dazzle most of us . 
+at the same time it is probably the most boring and ridiculous experience hat you will have this season . 
+at first you marvel at the elegant direction , graceful cinematography and sensual musical score . 
+then you'll wait for something to happen for half an hour , but when you final...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
+- so many students strive to get into schools such as harvard of princeton , but they just don't get the good grades . 
+so many students would do anything to reach their goal of getting into this schools . 
+legend has it that if your roommate commits suicide , the remaining roommates will get an automatic 4 . 0 . 
+chris ( michael vartan ) and tim ( matthew lillard ) are two guys who really want the 4 . 0 to get into harvard . 
+how far will they go to get their 4 . 0 ? 
+chris and tim are also roomm...
+
+
+==================================================
+---  :)  Logistic Regression (Config 6)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+- the happy bastard's quick movie review 
+the concept of enjoying a stupid comedy is best realized as keeping it stupid , really . 
+shift gears even once and the audience can be thrown miserably out of control . 
+sadly , that is the case with kingpin , a film directed by the farrelly brothers , the duo that brought us there's something about mary and dumb and dumber . 
+since the duo directed and didn't write the script , i can assume that's part of the problem . 
+the story seems good enough : a pr...
+
+- has hollywood run out of interesting characters and plot-driven suspense thrillers that we must spend two hours watching will smith and a gritty gene hackman exchange obtuse dialogue and run around dodging fireballs ? 
+in enemy of the state , that is exactly right . 
+a few parts the net , and a few parts conspiracy theory , enemy is about as exciting as watching smith talk to cgi aliens in 1997's lame brained men in black . 
+will this guy ever get a real role ? 
+he has the bruce willis syndrome ...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- notice : this is a review and analysis of exotica . 
+the first part of this piece is the review , the second part contains some analysis of the movie which might be construed as spoilers . 
+if you have not seen the movie and after reading the first part you intend to do so , then save the second part for the discussion afterwards . 
+starring : bruce greenwood , mia kirshner , elias kosteas , don mckellar , arsinee khanijian , sarah polley director : atom egoyan screenplay : atom egoyan 
+exotica ...
+
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+
+==================================================
+---  :)  Naive Bayes (Config 7)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- here's a rarity : a children's film that attempts to tackle a weighty subject , is there a god ? 
+done well , it could have been a gem among the wasteland of modern children's cinema . 
+unfortunately , it isn't . 
+with jumbled messages , and an unclear audience , wide awake was better left asleep . 
+fifth grader joshua beal ( joseph cross ) is in the middle of a moral crisis . 
+his beloved grandfather ( robert loggia ) has died , and joshua has begun a quest . 
+he wants to find god , to discover...
+
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+- i have never been so confused after watching a movie . 
+ " meet joe black " is probably one of the most visually satisfying films of this year , with a cinematography , music and cast that will dazzle most of us . 
+at the same time it is probably the most boring and ridiculous experience hat you will have this season . 
+at first you marvel at the elegant direction , graceful cinematography and sensual musical score . 
+then you'll wait for something to happen for half an hour , but when you final...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
+
+==================================================
+---  :)  Logistic Regression (Config 7)   [; ---
+==================================================
+
+[ False Positives (True: Neg, Predicted: Pos) ]
+- star wars : ? episode i -- the phantom menace ( 1999 ) 
+director : george lucas cast : liam neeson , ewan mcgregor , natalie portman , jake lloyd , ian mcdiarmid , samuel l . jackson , oliver ford davies , terence stamp , pernilla august , frank oz , ahmed best , kenny baker , anthony daniels screenplay : george lucas producers : rick mccallum runtime : 131 min . 
+us distribution : 20th century fox rated pg : mild violence , thematic elements 
+copyright 1999 nathaniel r . atcheson 
+a fellow crit...
+
+- hav plenty , as we are told in the beginning and reminded during the film , is a true story . 
+life itself is a series of true stories , but most are not movie material . 
+as scripted , directed , and acted by cinematic newcomer christopher scott cherot , hav plenty limps along at best . 
+its dialog is so stilted - " you know what they say , 'no women ; no cry . ' " 
+- that the actors are content to read the screenplay rather than invest much energy in trying to act it . 
+in the story , lee plen...
+
+-  " marie couldn't talk , " paulie , the parrot star of his own movie , tells us about the daughter in his original family . 
+ " dad couldn't listen . 
+and mom couldn't cope , so they got rid of me . " 
+paulie , the autobiography of a talking , not merely a mimicking , parrot , has jay mohr in the lead role of the bird - the voice , not the body - and as the minor character of benny , a small-time crook who uses paulie to pull off small scams like stealing twenties from atms . 
+as the parrot , mo...
+
+
+[ False Negatives (True: Pos, Predicted: Neg) ]
+- capsule : this is a 1950s or 1960s style heist film , set in the present . 
+robert deniro stars as a risk-adverse safecracker who wants to retire form crime but takes one last job at the request of a personal friend ( played by marlon brando ) . 
+edward norton plays a hotshot young sharpster who is also in on the crime . 
+the plot is mostly straightforward suspense with little nonsense . 
+ , +2 ( -4 to +4 ) 
+i am sure i must have seen almost the identical plot before . 
+this is a heist film made...
+
+- films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+for starters , it was created by alan moore ( and eddie campbell ) , who brought the medium to a whole new level in the mid '80s with a 12-part series called the watchmen . 
+to say moore and campbell thoroughly researched the subject...
+
+- the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+but somehow , the movie just tries so hard that you begin to forgive it and get into the swing of things . 
+not that it's bad , it's just that it's been done before ; and better , in my opinion . 
+i realize that this is going to sound pretty bizarre , but it's probably the best analogy that i can co...
+
