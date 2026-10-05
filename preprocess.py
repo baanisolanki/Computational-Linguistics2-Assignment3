@@ -7,11 +7,11 @@ def load_data(data_dir): #data_dir shall have path
     documents = []
     labels = []
     
-    for label_type, label_val in [('pos', 1), ('neg', 0)]:
+    for label_type, label_val in [('pos', 1), ('neg', 0)]: #creting path based on +ve or -ve
         folder_path = os.path.join(data_dir, label_type)
-        for filename in os.listdir(folder_path):
+        for filename in os.listdir(folder_path): #gives names of the files
             if filename.endswith(".txt"):
-                with open(os.path.join(folder_path, filename), 'r', encoding='utf-8') as f:
+                with open(os.path.join(folder_path, filename), 'r', encoding='utf-8') as f: #complete file path, opening in read mode,encoding
                     # The dataset is already down-cased with one sentence per line
                     text = f.read()
                     documents.append(text)
@@ -50,7 +50,7 @@ def apply_negation(tokens):
 def preprocess_text(text, use_negation=False):
     #tokenizes the text and aplies negation if needed
     #tokenize to properly separate words and punctuation
-    tokens = word_tokenize(text)
+    tokens = word_tokenize(text) #from nltk library
     
     if use_negation:
         tokens = apply_negation(tokens)

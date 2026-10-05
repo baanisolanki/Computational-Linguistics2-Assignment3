@@ -1,12 +1,11 @@
-import os
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import confusion_matrix, classification_report
+from sklearn.metrics import confusion_matrix, classification_report #for evaluation scores and confusion matrix
 from preprocess import load_data, preprocess_text
 from feature_extractor import extract_features
 from classifiers import CustomNaiveBayes, CustomLogisticRegression
 
 def save_misclassifications(y_true, y_pred, raw_docs, model_name, filename="fumbles.txt", num_samples=3): #fumbled sentences added to fumbles.txt for task4
-
+#y_true has actual labels, y_pred hass predicted labels 
     false_positives = []
     false_negatives = []
     
@@ -18,7 +17,7 @@ def save_misclassifications(y_true, y_pred, raw_docs, model_name, filename="fumb
             false_positives.append(raw_docs[i])
         elif y_true[i] == 1 and y_pred[i] == 0:
             false_negatives.append(raw_docs[i])
-            
+      
     with open(filename, "a", encoding="utf-8") as f:
         f.write(f"\n{'='*50}\n")
         f.write(f"---  :)  {model_name}   [; ---\n")
