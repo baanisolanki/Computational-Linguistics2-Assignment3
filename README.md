@@ -9,3 +9,5 @@ run: python3 main.py
 to exit: exit
 
 output_screenshots has terminal screenshots obtained on running the code
+
+I have chosen hu and liu's opinion lexicon for the etra credit part

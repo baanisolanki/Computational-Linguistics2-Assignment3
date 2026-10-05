@@ -43,7 +43,9 @@ def main():
     #splitiing the 2000 files into 80% training and 20% testing sets
     X_train_raw, X_test_raw, y_train, y_test = train_test_split(docs, labels, test_size=0.2, random_state=42)
     
-    for config_type in range(1, 8):
+    for config_type in range(1, 9):
+        if config_type == 8:
+            print("Extra credit portion")
         print(f"\n{'='*50}")
         print(f"RUNNING CONFIGURATION {config_type}")
         print(f"{'='*50}")
